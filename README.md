@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Data analyst/scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
+
+<p>I am a data analyst who has a background in supply chain management.</p>
+
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **roshansampathmc41@gmail.com**
