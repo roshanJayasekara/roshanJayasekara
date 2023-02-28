@@ -5,7 +5,7 @@
 
 <p>I am a data analyst who has a background in supply chain management.</p>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **roshansampathmc41@gmail.com**
 
